@@ -8,6 +8,8 @@ We can't keep knowledge to ourselves. It needs to be shared so that most, if not
 
 **P.S.** I'm starting my page as part of always learning and progressing iteratively.
 
+**[My GitHub Projects](https://github.com/maybelynplecic/maybelynplecic.github.io)**
+
 ## Follow my writing and musings below.
 ---
 - **My Website** [https://www.vitamae.org/](https://www.vitamae.org/)
