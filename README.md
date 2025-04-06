@@ -8,6 +8,8 @@ We can't keep knowledge to ourselves. It needs to be shared so that most, if not
 
 The next step is to build out my project repositories.
 
+Let's move forward and add more!
+
 **P.S.** I'm starting my page as part of always learning and progressing iteratively.
 
 **[My GitHub Projects](https://github.com/maybelynplecic/maybelynplecic.github.io)**
